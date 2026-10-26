@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Wermut";
+  src: url(../fonts/Wermut.ttf);
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Wermut-Italic";
+  src: url(../fonts/Wermut-Italic.ttf);
+  font-weight: normal;
+  font-style: italic;
+}
